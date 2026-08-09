@@ -3,8 +3,9 @@
 Five Claude Skills for marketing work: brand voice, content briefs, platform
 repurposing, a weekly digest and a pre-publish pass.
 
-333 lines of markdown across 5 files. No code, no dependencies, no cost beyond
-the Claude plan you already have.
+333 lines of markdown across 5 files. No dependencies, no cost beyond the
+Claude plan you already have. The skills run nothing — `tools/` is the one
+exception, and it is code that accompanies a video rather than a skill.
 
 These are the working copies. They are the files that produce this channel's
 scripts and descriptions, not a cleaned-up version made for publishing. So
