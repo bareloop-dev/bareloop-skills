@@ -1,0 +1,38 @@
+sessions 64  ·  requests 11,947  ·  projects 10
+
+INPUT TOKENS SENT (what the API received)
+  uncached (1x)                 82,962    0.0 %
+  cache write (2x)          72,656,177    2.9 %
+  cache read (0.1x)      2,431,124,780   97.1 %
+  total sent             2,503,863,919
+
+BILLED INPUT UNITS (after the multipliers)
+  uncached                      82,962    0.0 %
+  cache write              145,312,354   37.4 %
+  cache read               243,112,478   62.6 %
+  total billed             388,507,794
+  output tokens             12,217,822   (billed separately)
+
+WHAT THE HUMAN TYPED
+  characters                   956,995
+  tokens (cl100k)              252,731
+  as share of sent              0.010 %
+  as share of billed            0.065 %
+
+STARTUP CONTEXT (first request of each session)
+  sessions measured                 64
+  median                        57,362
+  min / max             31,940 /  73,616
+
+CACHE
+  read / sent                    97.1 %
+  write / sent                    2.9 %
+  reads per write               33.46
+
+MODELS
+  claude-opus-5                     8,831 requests
+  claude-sonnet-5                   1,780 requests
+  claude-haiku-4-5-20251001         1,118 requests
+  claude-sonnet-4-6                   169 requests
+  claude-opus-4-6                      33 requests
+  <synthetic>                          16 requests

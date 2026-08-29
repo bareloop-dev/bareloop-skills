@@ -1,0 +1,53 @@
+{
+ "sessions": 64,
+ "requests": 11947,
+ "sent": 2503863919,
+ "billed": 388507793,
+ "output": 12217822,
+ "typed_tokens": 252731,
+ "typed_chars": 956995,
+ "one_in": 9907,
+ "typed_pct_sent": 0.0101,
+ "write_sent": 72656177,
+ "write_pct_sent": 2.9,
+ "write_billed": 145312354,
+ "write_pct_billed": 37.4,
+ "read_pct_sent": 97.1,
+ "read_pct_billed": 62.6,
+ "cache_gain": 6.44,
+ "startup_median": 57362,
+ "startup_min": 31940,
+ "startup_max": 73616,
+ "startup_p25": 52504,
+ "startup_p75": 60272,
+ "first_share_short": 43.3,
+ "first_share_long": 1.49,
+ "per_req": {
+  "11-50": [
+   17,
+   18520
+  ],
+  "200+": [
+   17,
+   30563
+  ],
+  "51-200": [
+   21,
+   15982
+  ],
+  "1-10": [
+   9,
+   41511
+  ]
+ },
+ "top5_pct": 55.8,
+ "top10_pct": 74.8,
+ "models": {
+  "claude-opus-5": 8831,
+  "claude-sonnet-5": 1780,
+  "claude-haiku-4-5-20251001": 1118,
+  "<synthetic>": 16,
+  "claude-opus-4-6": 33,
+  "claude-sonnet-4-6": 169
+ }
+}

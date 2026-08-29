@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# Nunca: contienen rutas locales y el nombre de usuario.
+scan.json
+scan-frozen.json
