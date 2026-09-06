@@ -1,0 +1,66 @@
+{
+  "_captured_at": "2026-09-06T04:27:17Z",
+  "endpoint": "https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=en&q=<q>",
+  "seeds": {
+    "claude code": [
+      "claude code",
+      "claude code tutorial",
+      "claude code agents",
+      "claude code skills",
+      "claude code vs cursor",
+      "claude code vs code",
+      "claude code subagents",
+      "claude code mcp",
+      "claude code cursor",
+      "claude code workflow"
+    ],
+    "claude code skills": [
+      "claude code skills",
+      "claude code skills vs subagents",
+      "claude code skills tutorial",
+      "claude code skills vs agents",
+      "claude code skills explained",
+      "claude code skills and agents",
+      "claude code skills for developers",
+      "claude code skills example",
+      "claude code skills ui",
+      "claude code skills setup"
+    ],
+    "claude code subagents": [
+      "claude code subagents",
+      "claude code subagents workflow",
+      "claude code subagents tutorial",
+      "claude code subagents skills",
+      "claude code subagents best practices",
+      "claude code subagents vs skills",
+      "claude code subagents parallel",
+      "claude code subagents explained",
+      "claude code subagents demo",
+      "claude code subagents examples"
+    ],
+    "claude code agents": [
+      "claude code agents",
+      "claude code agents workflow",
+      "claude code agents and skills",
+      "claude code agents vs skills",
+      "claude code agents sdk",
+      "claude code agents and subagents",
+      "claude code agents in vscode",
+      "claude code agents.md",
+      "claude code agents github",
+      "claude code agents best practices"
+    ],
+    "claude skills": [
+      "claude skills",
+      "claude skills explained",
+      "claude skills espa�ol",
+      "claude skills examples",
+      "claude skills vs command",
+      "claude skills in antigravity",
+      "claude skills automation",
+      "claude skills for design",
+      "claude skills business",
+      "claude skills marketplace"
+    ]
+  }
+}

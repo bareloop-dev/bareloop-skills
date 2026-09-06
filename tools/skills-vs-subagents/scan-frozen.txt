@@ -1,0 +1,28 @@
+frozen 2026-09-06T04:25:38Z
+sessions 73  |  requests 15,579  |  projects 11
+
+INVOCATIONS (parsed tool_use blocks, not grep)
+  Skill tool                            40
+  Agent tool                             7
+
+WHERE THE TOKENS LANDED
+                         turns              sent          billed       output
+  main context          15,453     3,525,426,413     518,019,606   15,617,855
+  subagent context         126         8,385,325       3,410,165       72,425
+  subagent share of tokens sent            0.24 %
+
+PER UNIT OF USE (median)
+                             skill episode    subagent run
+  count                                 44               7
+  turns                                 32              18
+  billed                           626,282         470,248
+  billed per turn                   22,539          15,678
+  longest (turns)                      304              24
+
+COMPRESSION
+  tokens sent inside subagents       8,385,325
+  tokens returned to the parent         72,425
+  ratio                                  115.8 : 1
+
+Per-skill breakdowns are omitted on purpose: the skill names in this corpus
+identify unrelated private projects. Run scan.py on your own logs to see yours.
